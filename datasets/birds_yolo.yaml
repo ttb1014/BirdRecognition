@@ -1,0 +1,8 @@
+names:
+- bird
+- eye
+nc: 2
+path: birds_yolo
+test: images\test
+train: images\train
+val: images\val

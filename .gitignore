@@ -1,0 +1,14 @@
+/frames
+/selected_images
+
+/models
+!/models/yolov8n.pt
+/train
+/validation
+
+*.mp4
+
+/runs
+!/runs/detect/train6
+
+/CVAT2YOLO
